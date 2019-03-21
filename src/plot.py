@@ -1,25 +1,23 @@
-def ds_style(ax):
-    ax.grid(axis='y', color='#e1e1e1')
-    ax.spines['top'].set_visible(False)
-    ax.spines['right'].set_visible(False)
-    ax.spines['left'].set_visible(False)
-    ax.spines['bottom'].set_visible(False)
-    ax.spines['bottom'].set_linewidth(2)
-    
-    for tick in ax.get_xticklabels():
-        tick.set_weight(500)
-        tick.set_size(14)
-        tick.set_color('#606062')
+import matplotlib
+import matplotlib.pyplot as plt
 
-    for tick in ax.get_yticklabels():
-        tick.set_weight(500)
-        tick.set_size(14)
-        tick.set_color('#606062')
-        
-    ax.xaxis.set_tick_params(length=8, color='#c2c2c3')
-    ax.yaxis.set_tick_params(length=0)
 
-    ax.tick_params(axis='x', which='major', pad=4)
-    ax.tick_params(axis='y', which='major', pad=16)
+def ds_plot(nrows=1,
+            ncols=1,
+            sharex=False,
+            sharey=False,
+            squeeze=True,
+            subplot_kw=None,
+            gridspec_kw=None,
+            figsize=(11.52, 6.88)):
 
-    return ax
+    fig, ax = plt.subplots(nrows, ncols, sharex, sharey,
+                           squeeze, subplot_kw, gridspec_kw,
+                           figsize=figsize)
+
+    if type(ax) is matplotlib.axes._subplots.Subplot:
+        ax.xaxis.set_tick_params(color='#c2c2c3')
+    else:
+        for a in ax.flat:
+            a.xaxis.set_tick_params(color='#c2c2c3')
+    return fig, ax

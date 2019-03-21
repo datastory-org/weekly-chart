@@ -1,0 +1,38 @@
+### Datastory stylesheet for Matplotlib plots
+
+font.sans-serif       : Averta PE, BasicSans Narrow, DejaVu Sans, Bitstream Vera Sans, Lucida Grande, Verdana, Geneva, Lucid, Arial, Helvetica, Avant Garde, sans-serif
+font.weight           : 500
+font.size             : 14
+axes.titlesize        : 18
+axes.titleweight      : 400
+axes.labelsize        : 16
+axes.labelcolor       : 606062
+
+axes.grid			  : True
+axes.grid.axis        : y
+grid.color            : e1e1e1
+axes.formatter.use_locale : True
+axes.labelweight      : 500
+
+xtick.color           : 606062
+ytick.color           : 606062
+xtick.major.size      : 8
+xtick.major.pad       : 4
+ytick.major.pad       : 16
+ytick.minor.pad       : 16
+ytick.major.size      : 0
+xtick.labelsize		  : 14
+ytick.labelsize		  : 14
+
+# Spines
+axes.spines.bottom    : False
+axes.spines.left      : False
+axes.spines.right     : False
+axes.spines.top       : False
+
+figure.figsize        : 11.52, 6.88
+figure.facecolor      : ffffff
+figure.titlesize      : 34
+figure.titleweight    : 800
+
+svg.fonttype		  : none
