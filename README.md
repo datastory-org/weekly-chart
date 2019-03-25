@@ -19,7 +19,7 @@ Data is collected from a variety of sources. Each notebook contains a source ref
 - **The Datastory Brand:** The Logo of Datastory and any other product names, trademarks or service marks are proprietary and are protected by applicable trademark and copyright laws. Nothing contained in this code base should be construed as granting any license or right to use any of the Datastory Marks without the express written permission of the owner of such Marks.
 
 # Styling
-In order to use `plt.style.use("datastory")`, you need to move the `assets/datastory.mplstyle` stylesheet to the location of your local matplotlib configuration directory (which can be found with `matplotlib.get_configdir()`). Assuming the config dir is located at `~/.matplotlib/`, move the stylesheet to `~/.matplotlib/stylelib/datastory.mplstyle`.
+To create your own style, make a copy of the `assets/datastory.mplstyle` stylesheet to the location of your local matplotlib configuration directory (which can be found with `matplotlib.get_configdir()`). Assuming the config dir is located at `~/.matplotlib/`, move the stylesheet to `~/.matplotlib/stylelib/your-name.mplstyle`. Now you can use `plt.style.use("your-style")` to create custom styled charts.
 
 Unfortunately, some styling options are not customizable via stylesheets and have to be configured in code, which is what the `ds_plot` (in src/plot) function is for. Whenever possible, initialize your plots with the command `fig, ax = ds_plot()` and all basic styling should be set up appropriately.
 
