@@ -1,0 +1,275 @@
+country,name,iso3166_1_alpha3,iso3166_1_alpha2,un_state,world_4region,world_6region
+abkh,Abkhazia,,,False,europe,europe_central_asia
+afg,Afghanistan,afg,af,True,asia,south_asia
+akr_a_dhe,Akrotiri and Dhekelia,,,False,europe,europe_central_asia
+ala,Åland,ala,ax,False,europe,europe_central_asia
+alb,Albania,alb,al,True,europe,europe_central_asia
+dza,Algeria,dza,dz,True,africa,middle_east_north_africa
+asm,American Samoa,asm,as,False,asia,east_asia_pacific
+and,Andorra,and,ad,True,europe,europe_central_asia
+ago,Angola,ago,ao,True,africa,sub_saharan_africa
+aia,Anguilla,aia,ai,False,americas,america
+ata,Antarctica,ata,aq,False,europe,
+atg,Antigua and Barbuda,atg,ag,True,americas,america
+arg,Argentina,arg,ar,True,americas,america
+arm,Armenia,arm,am,True,europe,europe_central_asia
+abw,Aruba,abw,aw,False,americas,america
+aus,Australia,aus,au,True,asia,east_asia_pacific
+aut,Austria,aut,at,True,europe,europe_central_asia
+aze,Azerbaijan,aze,az,True,europe,europe_central_asia
+bhs,Bahamas,bhs,bs,True,americas,america
+bhr,Bahrain,bhr,bh,True,asia,middle_east_north_africa
+bgd,Bangladesh,bgd,bd,True,asia,south_asia
+brb,Barbados,brb,bb,True,americas,america
+blr,Belarus,blr,by,True,europe,europe_central_asia
+bel,Belgium,bel,be,True,europe,europe_central_asia
+blz,Belize,blz,bz,True,americas,america
+ben,Benin,ben,bj,True,africa,sub_saharan_africa
+bmu,Bermuda,bmu,bm,False,americas,america
+btn,Bhutan,btn,bt,True,asia,south_asia
+bol,Bolivia,bol,bo,True,americas,america
+bih,Bosnia and Herzegovina,bih,ba,True,europe,europe_central_asia
+bwa,Botswana,bwa,bw,True,africa,sub_saharan_africa
+bouisl,Bouvet Island,bvt,bv,False,africa,
+bra,Brazil,bra,br,True,americas,america
+iot,British Indian Ocean Territory,iot,io,False,asia,
+vgb,British Virgin Islands,vgb,vg,False,americas,america
+brn,Brunei,brn,bn,True,asia,east_asia_pacific
+bgr,Bulgaria,bgr,bg,True,europe,europe_central_asia
+bfa,Burkina Faso,bfa,bf,True,africa,sub_saharan_africa
+bdi,Burundi,bdi,bi,True,africa,sub_saharan_africa
+khm,Cambodia,khm,kh,True,asia,east_asia_pacific
+cmr,Cameroon,cmr,cm,True,africa,sub_saharan_africa
+can,Canada,can,ca,True,americas,america
+cpv,Cape Verde,cpv,cv,True,africa,sub_saharan_africa
+cym,Cayman Islands,cym,ky,False,americas,america
+caf,Central African Republic,caf,cf,True,africa,sub_saharan_africa
+tcd,Chad,tcd,td,True,africa,sub_saharan_africa
+chanisl,Channel Islands,,,False,europe,europe_central_asia
+chl,Chile,chl,cl,True,americas,america
+chn,China,chn,cn,True,asia,east_asia_pacific
+cxr,Christmas Island,cxr,cx,False,asia,east_asia_pacific
+fra_clipperton,Clipperton,,,False,,
+cck,Cocos Island,cck,cc,False,asia,east_asia_pacific
+col,Colombia,col,co,True,americas,america
+com,Comoros,com,km,True,africa,sub_saharan_africa
+cod,"Congo, Dem. Rep.",cod,cd,True,africa,sub_saharan_africa
+cog,"Congo, Rep.",cog,cg,True,africa,sub_saharan_africa
+cok,Cook Is,cok,ck,False,asia,east_asia_pacific
+cri,Costa Rica,cri,cr,True,americas,america
+civ,Cote d'Ivoire,civ,ci,True,africa,sub_saharan_africa
+hrv,Croatia,hrv,hr,True,europe,europe_central_asia
+cub,Cuba,cub,cu,True,americas,america
+nld_curacao,Curaçao,cuw,cw,False,americas,america
+cyp,Cyprus,cyp,cy,True,europe,europe_central_asia
+cze,Czech Republic,cze,cz,True,europe,europe_central_asia
+cheslo,Czechoslovakia,,,False,europe,europe_central_asia
+dnk,Denmark,dnk,dk,True,europe,europe_central_asia
+dji,Djibouti,dji,dj,True,africa,middle_east_north_africa
+dma,Dominica,dma,dm,True,americas,america
+dom,Dominican Republic,dom,do,True,americas,america
+deu_east,East Germany,,,False,europe,europe_central_asia
+ecu,Ecuador,ecu,ec,True,americas,america
+egy,Egypt,egy,eg,True,africa,middle_east_north_africa
+slv,El Salvador,slv,sv,True,americas,america
+gnq,Equatorial Guinea,gnq,gq,True,africa,sub_saharan_africa
+eri,Eritrea,eri,er,True,africa,sub_saharan_africa
+eri_a_eth,Eritrea and Ethiopia,,,False,africa,sub_saharan_africa
+est,Estonia,est,ee,True,europe,europe_central_asia
+eth,Ethiopia,eth,et,True,africa,sub_saharan_africa
+fro,Faeroe Islands,fro,fo,False,europe,europe_central_asia
+flk,Falkland Is (Malvinas),flk,fk,False,americas,america
+fji,Fiji,fji,fj,True,asia,east_asia_pacific
+fin,Finland,fin,fi,True,europe,europe_central_asia
+fra,France,fra,fr,True,europe,europe_central_asia
+guf,French Guiana,guf,gf,False,americas,america
+pyf,French Polynesia,pyf,pf,False,asia,east_asia_pacific
+fra_antarc,French Southern and Antarctic Lands,,,False,,
+gab,Gabon,gab,ga,True,africa,sub_saharan_africa
+gmb,Gambia,gmb,gm,True,africa,sub_saharan_africa
+pse_gaza,Gaza Strip,,,False,asia,
+geo,Georgia,geo,ge,True,europe,europe_central_asia
+deu,Germany,deu,de,True,europe,europe_central_asia
+gha,Ghana,gha,gh,True,africa,sub_saharan_africa
+gib,Gibraltar,gib,gi,False,europe,europe_central_asia
+grc,Greece,grc,gr,True,europe,europe_central_asia
+grl,Greenland,grl,gl,False,europe,europe_central_asia
+grd,Grenada,grd,gd,True,americas,america
+glp,Guadeloupe,glp,gp,False,americas,america
+gum,Guam,gum,gu,False,asia,east_asia_pacific
+gtm,Guatemala,gtm,gt,True,americas,america
+gbg,Guernsey,ggy,gg,False,europe,europe_central_asia
+gin,Guinea,gin,gn,True,africa,sub_saharan_africa
+gnb,Guinea-Bissau,gnb,gw,True,africa,sub_saharan_africa
+guy,Guyana,guy,gy,True,americas,america
+hti,Haiti,hti,ht,True,americas,america
+heard_a_mcd,Heard and McDonald Islands,hmd,hm,False,asia,
+hos,Vatican City,vat,va,True,europe,europe_central_asia
+hnd,Honduras,hnd,hn,True,americas,america
+hkg,"Hong Kong, China",hkg,hk,False,asia,east_asia_pacific
+hun,Hungary,hun,hu,True,europe,europe_central_asia
+isl,Iceland,isl,is,True,europe,europe_central_asia
+ind,India,ind,in,True,asia,south_asia
+idn,Indonesia,idn,id,True,asia,east_asia_pacific
+irn,Iran,irn,ir,True,asia,middle_east_north_africa
+irq,Iraq,irq,iq,True,asia,middle_east_north_africa
+irl,Ireland,irl,ie,True,europe,europe_central_asia
+gbm,Isle of Man,imn,im,False,europe,europe_central_asia
+isr,Israel,isr,il,True,asia,middle_east_north_africa
+ita,Italy,ita,it,True,europe,europe_central_asia
+jam,Jamaica,jam,jm,True,americas,america
+jpn,Japan,jpn,jp,True,asia,east_asia_pacific
+jey,Jersey,jey,je,False,europe,europe_central_asia
+jor,Jordan,jor,jo,True,asia,middle_east_north_africa
+kaz,Kazakhstan,kaz,kz,True,asia,europe_central_asia
+ken,Kenya,ken,ke,True,africa,sub_saharan_africa
+kir,Kiribati,kir,ki,True,asia,east_asia_pacific
+kos,Kosovo,,,False,europe,europe_central_asia
+kwt,Kuwait,kwt,kw,True,asia,middle_east_north_africa
+kgz,Kyrgyz Republic,kgz,kg,True,asia,europe_central_asia
+lao,Laos,lao,la,True,asia,east_asia_pacific
+lva,Latvia,lva,lv,True,europe,europe_central_asia
+lbn,Lebanon,lbn,lb,True,asia,middle_east_north_africa
+lso,Lesotho,lso,ls,True,africa,sub_saharan_africa
+lbr,Liberia,lbr,lr,True,africa,sub_saharan_africa
+lby,Libya,lby,ly,True,africa,middle_east_north_africa
+lie,Liechtenstein,lie,li,True,europe,europe_central_asia
+ltu,Lithuania,ltu,lt,True,europe,europe_central_asia
+lux,Luxembourg,lux,lu,True,europe,europe_central_asia
+mac,"Macao, China",mac,mo,False,asia,east_asia_pacific
+mkd,North Macedonia,mkd,mk,True,europe,europe_central_asia
+mdg,Madagascar,mdg,mg,True,africa,sub_saharan_africa
+mwi,Malawi,mwi,mw,True,africa,sub_saharan_africa
+mys,Malaysia,mys,my,True,asia,east_asia_pacific
+mdv,Maldives,mdv,mv,True,asia,south_asia
+mli,Mali,mli,ml,True,africa,sub_saharan_africa
+mlt,Malta,mlt,mt,True,europe,europe_central_asia
+mhl,Marshall Islands,mhl,mh,True,asia,east_asia_pacific
+mtq,Martinique,mtq,mq,False,americas,america
+mrt,Mauritania,mrt,mr,True,africa,sub_saharan_africa
+mus,Mauritius,mus,mu,True,africa,sub_saharan_africa
+myt,Mayotte,myt,yt,False,africa,sub_saharan_africa
+mex,Mexico,mex,mx,True,americas,america
+fsm,"Micronesia, Fed. Sts.",fsm,fm,True,asia,east_asia_pacific
+mda,Moldova,mda,md,True,europe,europe_central_asia
+mco,Monaco,mco,mc,True,europe,europe_central_asia
+mng,Mongolia,mng,mn,True,asia,east_asia_pacific
+mne,Montenegro,mne,me,True,europe,europe_central_asia
+msr,Montserrat,msr,ms,False,americas,america
+mar,Morocco,mar,ma,True,africa,middle_east_north_africa
+moz,Mozambique,moz,mz,True,africa,sub_saharan_africa
+mmr,Myanmar,mmr,mm,True,asia,east_asia_pacific
+nam,Namibia,nam,,True,africa,sub_saharan_africa
+nru,Nauru,nru,nr,True,asia,east_asia_pacific
+npl,Nepal,npl,np,True,asia,south_asia
+nld,Netherlands,nld,nl,True,europe,europe_central_asia
+ant,Netherlands Antilles,,,False,americas,america
+ncl,New Caledonia,ncl,nc,False,asia,east_asia_pacific
+nzl,New Zealand,nzl,nz,True,asia,east_asia_pacific
+ngokar,Ngorno-Karabakh,,,False,europe,europe_central_asia
+nic,Nicaragua,nic,ni,True,americas,america
+ner,Niger,ner,ne,True,africa,sub_saharan_africa
+nga,Nigeria,nga,ng,True,africa,sub_saharan_africa
+niu,Niue,niu,nu,False,asia,east_asia_pacific
+nfk,Norfolk Island,nfk,nf,False,asia,east_asia_pacific
+prk,North Korea,prk,kp,True,asia,east_asia_pacific
+yem_north,North Yemen (former),,,False,asia,middle_east_north_africa
+cyp_nor,Northern Cyprus,,,False,europe,europe_central_asia
+mnp,Northern Mariana Islands,mnp,mp,False,asia,east_asia_pacific
+nor,Norway,nor,no,True,europe,europe_central_asia
+omn,Oman,omn,om,True,asia,middle_east_north_africa
+pak,Pakistan,pak,pk,True,asia,south_asia
+plw,Palau,plw,pw,True,asia,east_asia_pacific
+pse,Palestine,pse,ps,True,asia,middle_east_north_africa
+pan,Panama,pan,pa,True,americas,america
+png,Papua New Guinea,png,pg,True,asia,east_asia_pacific
+pry,Paraguay,pry,py,True,americas,america
+per,Peru,per,pe,True,americas,america
+phl,Philippines,phl,ph,True,asia,east_asia_pacific
+pcn,Pitcairn,pcn,pn,False,asia,east_asia_pacific
+pol,Poland,pol,pl,True,europe,europe_central_asia
+prt,Portugal,prt,pt,True,europe,europe_central_asia
+pri,Puerto Rico,pri,pr,False,americas,america
+qat,Qatar,qat,qa,True,asia,middle_east_north_africa
+reu,Reunion,reu,re,False,africa,sub_saharan_africa
+rou,Romania,rou,ro,True,europe,europe_central_asia
+rus,Russia,rus,ru,True,europe,europe_central_asia
+rwa,Rwanda,rwa,rw,True,africa,sub_saharan_africa
+wsm,Samoa,wsm,ws,True,asia,east_asia_pacific
+smr,San Marino,smr,sm,True,europe,europe_central_asia
+stp,Sao Tome and Principe,stp,st,True,africa,sub_saharan_africa
+sau,Saudi Arabia,sau,sa,True,asia,middle_east_north_africa
+sen,Senegal,sen,sn,True,africa,sub_saharan_africa
+srb,Serbia,srb,rs,True,europe,europe_central_asia
+scg,Serbia and Montenegro,,,False,europe,europe_central_asia
+scg_ex_kos,Serbia excluding Kosovo,,,False,europe,europe_central_asia
+syc,Seychelles,syc,sc,True,africa,sub_saharan_africa
+sle,Sierra Leone,sle,sl,True,africa,sub_saharan_africa
+sgp,Singapore,sgp,sg,True,asia,east_asia_pacific
+sxm,Sint Maarten (Dutch part),sxm,sx,False,americas,
+svk,Slovak Republic,svk,sk,True,europe,europe_central_asia
+svn,Slovenia,svn,si,True,europe,europe_central_asia
+slb,Solomon Islands,slb,sb,True,asia,east_asia_pacific
+som,Somalia,som,so,True,africa,sub_saharan_africa
+som_somland,Somaliland,,,False,africa,sub_saharan_africa
+zaf,South Africa,zaf,za,True,africa,sub_saharan_africa
+sgero_a_ssandw,South Georgia and the South Sandwich Islands,sgs,gs,False,americas,
+kor,South Korea,kor,kr,True,asia,east_asia_pacific
+sosset,South Ossetia,,,False,europe,europe_central_asia
+ssd,South Sudan,ssd,ss,True,africa,sub_saharan_africa
+yem_south,South Yemen (former),,,False,asia,middle_east_north_africa
+viet_south,South Vietnam,,,,asia,east_asia_pacific
+esp,Spain,esp,es,True,europe,europe_central_asia
+lka,Sri Lanka,lka,lk,True,asia,south_asia
+stbar,St. Barthélemy,blm,bl,False,americas,america
+shn,St. Helena,shn,sh,False,africa,sub_saharan_africa
+kna,St. Kitts and Nevis,kna,kn,True,americas,america
+lca,St. Lucia,lca,lc,True,americas,america
+stmar,St. Martin,,,False,americas,america
+maf,St. Martin (French part),maf,mf,False,americas,
+vct,St. Vincent and the Grenadines,vct,vc,True,americas,america
+spm,St.-Pierre-et-Miquelon,spm,pm,False,americas,america
+sdn,Sudan,sdn,sd,True,africa,sub_saharan_africa
+sur,Suriname,sur,sr,True,americas,america
+sjm,Svalbard,sjm,sj,False,europe,europe_central_asia
+swz,Swaziland,swz,sz,True,africa,sub_saharan_africa
+swe,Sweden,swe,se,True,europe,europe_central_asia
+che,Switzerland,che,ch,True,europe,europe_central_asia
+syr,Syria,syr,sy,True,asia,middle_east_north_africa
+twn,Taiwan,twn,tw,False,asia,east_asia_pacific
+tjk,Tajikistan,tjk,tj,True,asia,europe_central_asia
+tza,Tanzania,tza,tz,True,africa,sub_saharan_africa
+tha,Thailand,tha,th,True,asia,east_asia_pacific
+tls,Timor-Leste,tls,tl,True,asia,east_asia_pacific
+tgo,Togo,tgo,tg,True,africa,sub_saharan_africa
+tkl,Tokelau,tkl,tk,False,asia,east_asia_pacific
+ton,Tonga,ton,to,True,asia,east_asia_pacific
+transn,Transnistria,,,False,europe,europe_central_asia
+tto,Trinidad and Tobago,tto,tt,True,americas,america
+tun,Tunisia,tun,tn,True,africa,middle_east_north_africa
+tur,Turkey,tur,tr,True,europe,europe_central_asia
+tkm,Turkmenistan,tkm,tm,True,asia,europe_central_asia
+tca,Turks and Caicos Islands,tca,tc,False,americas,america
+tuv,Tuvalu,tuv,tv,True,asia,east_asia_pacific
+uga,Uganda,uga,ug,True,africa,sub_saharan_africa
+ukr,Ukraine,ukr,ua,True,europe,europe_central_asia
+are,United Arab Emirates,are,ae,True,asia,middle_east_north_africa
+gbr,United Kingdom,gbr,gb,True,europe,europe_central_asia
+korea_union,United Korea (former),,,False,asia,
+usa,United States,usa,us,True,americas,america
+ury,Uruguay,ury,uy,True,americas,america
+usa_minor_out_isl,US Minor Outlying Islands,umi,um,False,americas,
+ussr,USSR,,,False,europe,europe_central_asia
+uzb,Uzbekistan,uzb,uz,True,asia,europe_central_asia
+vut,Vanuatu,vut,vu,True,asia,east_asia_pacific
+ven,Venezuela,ven,ve,True,americas,america
+vnm,Vietnam,vnm,vn,True,asia,east_asia_pacific
+vir,Virgin Islands (U.S.),vir,vi,False,americas,america
+wlf,Wallis et Futuna,wlf,wf,False,asia,east_asia_pacific
+pse_west_bank,West Bank,,,False,asia,
+deu_west,West Germany,,,False,europe,europe_central_asia
+esh,Western Sahara,esh,eh,False,africa,middle_east_north_africa
+yem,Yemen,yem,ye,True,asia,middle_east_north_africa
+yug,Yugoslavia,,,False,europe,europe_central_asia
+zmb,Zambia,zmb,zm,True,africa,sub_saharan_africa
+zwe,Zimbabwe,zwe,zw,True,africa,sub_saharan_africa
