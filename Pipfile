@@ -15,6 +15,10 @@ tqdm = "*"
 src = {editable = true,path = "."}
 seaborn = "*"
 xlrd = "*"
+shapely = "*"
+geopandas = "*"
+descartes = "*"
+mapclassify = "*"
 
 [requires]
 python_version = "3.7"
