@@ -4,7 +4,7 @@ font.sans-serif       : Averta PE, BasicSans Narrow, DejaVu Sans, Bitstream Vera
 font.weight           : 500
 font.size             : 14
 axes.titlesize        : 18
-axes.titleweight      : 400
+axes.titleweight      : 500
 axes.labelsize        : 16
 axes.labelcolor       : 606062
 
